@@ -26,7 +26,7 @@ An example from an audio file that has has the word "right". The waveform and th
 ![alt text](https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/wav_spec.png)
 
 The spectrogram  for different samples of the dataset:
-!(https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/different_samples_spectogram.png)
+![alt text](https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/different_samples_spectogram.png)
 
 # Build and Train the Model
 
