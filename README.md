@@ -41,8 +41,6 @@ The summary of the model is shown below:
 nput shape: (124, 129, 1)
 Model: "sequential"
 _________________________________________________________________
-Layer (type)                 Output Shape              Param    
-=================================================================
 resizing (Resizing)          (None, 32, 32, 1)         0         
 _________________________________________________________________
 normalization (Normalization (None, 32, 32, 1)         3         
@@ -60,12 +58,6 @@ _________________________________________________________________
 dense (Dense)                (None, 128)               1605760   
 _________________________________________________________________
 dropout_1 (Dropout)          (None, 128)               0         
-_________________________________________________________________
-dense_1 (Dense)              (None, 8)                 1032      
-=================================================================
-Total params: 1,625,611
-Trainable params: 1,625,608
-Non-trainable params: 3
 _________________________________________________________________
 
 The model is compiled with SparseCategoricalCrossentropy as Loss function and Adam as optimizer.  
