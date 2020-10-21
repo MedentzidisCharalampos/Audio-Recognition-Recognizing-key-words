@@ -23,4 +23,6 @@ STFT produces an array of complex numbers representing magnitude and phase. Howe
 We also want the waveforms to have the same length so that when you convert it to a spectrogram image, the results will have similar dimensions. This can be done by simply zero padding the audio clips that are shorter than one second.
 
 An example from an audio file that has has the word "right". The waveform and the spectrogram is shown below:
-![alt text](https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/wav_spec.png)
+![alt text](https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/different_samples_spectogram.png)
+
+The spectrogram " for different samples of the dataset:
