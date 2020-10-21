@@ -46,10 +46,10 @@ The training and validation loss curves show how our model has improved during t
 # Evaluate test set performance
 
  We run the model on the test set and check performance and the result is 82% accuracy.
-A confusion matrix is helpful to see how well the model did on each of the commands in the test set.
+A confusion matrix is helpful to see how well the model did on each of the commands in the test set.  
 ![alt text](https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/confusion_matrix.png)
 
 # Run inference on an audio file
-Verify the model's prediction output using an input audio file of someone saying "no."
+Verify the model's prediction output using an input audio file of someone saying "no."  
 ![alt text](https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/prediction_no.png)
 We can see that our model very clearly recognized the audio command as "no."
