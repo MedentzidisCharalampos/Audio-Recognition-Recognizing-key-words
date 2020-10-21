@@ -41,7 +41,7 @@ The summary of the model is shown below:
 nput shape: (124, 129, 1)
 Model: "sequential"
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param    
 =================================================================
 resizing (Resizing)          (None, 32, 32, 1)         0         
 _________________________________________________________________
