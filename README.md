@@ -40,5 +40,16 @@ The model is compiled with SparseCategoricalCrossentropy as Loss function and Ad
 The model is trained for 10 epochs with early stopping to avoid overfitting.  
 After the training we have the results `loss: 0.4150 - accuracy: 0.8550 - val_loss: 0.5001 - val_accuracy: 0.8388`
 
-The training and validation loss curves show how our model has improved during training:
+The training and validation loss curves show how our model has improved during training:  
 ![alt text](https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/loss.png)
+
+# Evaluate test set performance
+
+ We run the model on the test set and check performance and the result is 82% accuracy.
+A confusion matrix is helpful to see how well the model did on each of the commands in the test set.
+![alt text](https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/confusion_matrix.png)
+
+# Run inference on an audio file
+Verify the model's prediction output using an input audio file of someone saying "no."
+![alt text](https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/prediction_no.png)
+We can see that our model very clearly recognized the audio command as "no."
