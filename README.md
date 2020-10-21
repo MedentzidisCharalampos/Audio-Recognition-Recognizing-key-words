@@ -51,5 +51,5 @@ A confusion matrix is helpful to see how well the model did on each of the comma
 
 # Run inference on an audio file
 Verify the model's prediction output using an input audio file of someone saying "no."  
-![alt text](https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/prediction_no.png)
+![alt text](https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/prediction_no.png)  
 We can see that our model very clearly recognized the audio command as "no."
