@@ -25,8 +25,8 @@ We also want the waveforms to have the same length so that when you convert it t
 An example from an audio file that has has the word "right". The waveform and the spectrogram is shown below:
 ![alt text](https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/wav_spec.png)
 
-The spectrogram " for different samples of the dataset:
-https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/different_samples_spectogram.png
+The spectrogram  for different samples of the dataset:
+!(https://github.com/MedentzidisCharalampos/Audio-Recognition-Recognizing-key-words/blob/main/different_samples_spectogram.png)
 
 # Build and Train the Model
 
